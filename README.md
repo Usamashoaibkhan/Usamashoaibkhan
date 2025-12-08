@@ -2,9 +2,9 @@
 # Market Research | Lead Generation | Data Collection | VA & Business Development
 
 📍 **Location:** Pakistan — Open to Remote Work  
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 **Portfolio (optional):** [your-portfolio-link](your-portfolio-link)
+📧 **Email:** usamashoaibkhan22@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/usama-shoaib-45a521259/  
+🌐 **Portfolio (optional):** https://www.instagram.com/usamakhanqalandrani/
 
 ---
 
@@ -14,8 +14,6 @@ I’m a detail-oriented professional specializing in **Market Research**, **Data
 With hands-on experience working with diverse industries, I help businesses find relevant leads, analyze markets, streamline operations, and support daily administrative and growth-oriented tasks.
 
 My focus is on delivering high-quality research, clean datasets, reliable business insights, and optimized workflows.
-
----
 
 ## 🛠️ Tech & Skills
 
@@ -42,8 +40,6 @@ My focus is on delivering high-quality research, clean datasets, reliable busine
 📁 Project Coordination  
 📝 Business Documentation
 
----
-
 ## ⭐ Featured Work
 
 ### 📌 Market & Competitor Research  
@@ -61,8 +57,6 @@ My focus is on delivering high-quality research, clean datasets, reliable busine
 - Helped outbound prospecting with clean lead pipelines.  
 - Drafted proposals, outreach templates, and BD workflows.
 
----
-
 ## 🏅 Soft Skills  
 🎯 Attention to Detail  
 🧠 Problem-Solving  
@@ -70,10 +64,8 @@ My focus is on delivering high-quality research, clean datasets, reliable busine
 ⏱️ Time Management  
 🚀 Fast Learning
 
----
-
 ## 📫 Contact
 
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📧 **Email:** usamashoaibkhan22@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/usama-shoaib-45a521259/ 
 🌍 **Available for Remote Work**
