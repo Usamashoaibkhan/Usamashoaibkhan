@@ -1,3 +1,4 @@
+![Usama's Portfolio Banner](https://i.postimg.cc/0QmSR7zx/A-sleek-professiona.png)
 Market Research | Lead Generation | Data Collection | VA & Business Development
 
 Location: Pakistan — Open to Remote Work
