@@ -3,17 +3,16 @@
 
 📍 **Location:** Pakistan Open to Remote Work  
 📧 **Email:** usamashoaibkhan22@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/usama-shoaib-45a521259/  
-🌐 **Portfolio (optional):** https://www.instagram.com/usamakhanqalandrani/
+🔗 **LinkedIn:** https://www.linkedin.com/in/usama-shoaib-45a521259/ 
 
-## 🧑‍💼 About Me
+## About Me
 
 I’m a detail-oriented professional specializing in **Market Research**, **Data Collection**, **Lead Generation**, **Virtual Assistance**, and **Business Development**.  
 With hands-on experience working with diverse industries, I help businesses find relevant leads, analyze markets, streamline operations, and support daily administrative and growth-oriented tasks.
 
 My focus is on delivering high-quality research, clean datasets, reliable business insights, and optimized workflows.
 
-## 🛠️ Tech & Skills
+## Tech & Skills
 
 ### 🔍 Research & Lead Gen Tools  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn%20Sales%20Navigator-blue?logo=linkedin)  
@@ -31,7 +30,7 @@ My focus is on delivering high-quality research, clean datasets, reliable busine
 ![Zoho](https://img.shields.io/badge/Zoho-CC0000?logo=zoho&logoColor=white)  
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
 
-### 🧑‍💼 VA & Operations  
+### VA & Operations  
 📅 Calendar Management  
 📨 Email Handling  
 ⚙️ Task Automation (Basic)  
