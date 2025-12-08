@@ -1,12 +1,10 @@
 ![Usama's Portfolio Banner](https://i.postimg.cc/0QmSR7zx/A-sleek-professiona.png)
 # Market Research | Lead Generation | Data Collection | VA & Business Development
 
-📍 **Location:** Pakistan — Open to Remote Work  
+📍 **Location:** Pakistan Open to Remote Work  
 📧 **Email:** usamashoaibkhan22@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/usama-shoaib-45a521259/  
 🌐 **Portfolio (optional):** https://www.instagram.com/usamakhanqalandrani/
-
----
 
 ## 🧑‍💼 About Me
 
@@ -68,4 +66,3 @@ My focus is on delivering high-quality research, clean datasets, reliable busine
 
 📧 **Email:** usamashoaibkhan22@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/usama-shoaib-45a521259/ 
-🌍 **Available for Remote Work**
