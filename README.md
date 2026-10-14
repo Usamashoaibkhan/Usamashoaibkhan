@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Usama Shoaib
-
-### Software Developer · Data Analyst · NLP & AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=200&section=header&text=Usama%20Shoaib&fontSize=50&fontColor=ffffff&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20NLP%20%26%20AI&descSize=18&descAlignY=65" width="100%" />
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +21,17 @@ Computer Science graduate with practical experience in **data analysis, SQL opti
 I enjoy building reliable software and turning raw data into useful insights.
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Usamashoaibkhan&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamashoaibkhan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Usamashoaibkhan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ## 🎓 Education
 
