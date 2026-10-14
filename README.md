@@ -1,7 +1,7 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:0d1117,100:1f2a44&text=Usama%20Shoaib&fontColor=58a6ff&fontSize=62&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20NLP%20%26%20AI%20Enthusiast&descColor=c9d1d9&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Usama Shoaib banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:0d1117,100:1f2a44&text=Usama%20Shoaib&fontColor=58a6ff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20NLP%20and%20AI&descColor=c9d1d9&descSize=18&descAlignY=60" width="100%" alt="Usama Shoaib banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+useful+insights;Building+reliable+software+with+C%23+%26+Python;NLP+%C2%B7+LLMs+%C2%B7+Machine+Learning;Open+to+remote+work+%F0%9F%8C%8D" alt="Typing animation"/>
