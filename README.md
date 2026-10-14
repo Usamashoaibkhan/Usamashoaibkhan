@@ -1,67 +1,107 @@
-![Usama's Portfolio Banner](https://i.postimg.cc/0QmSR7zx/A-sleek-professiona.png)
-# Market Research | Lead Generation | Data Collection | VA & Business Development
+<div align="center">
 
-📍 **Location:** Pakistan Open to Remote Work  
-📧 **Email:** usamashoaibkhan22@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/usama-shoaib-45a521259/ 
+# 👋 Hi, I'm Usama Shoaib
 
-## About Me
+### Software Developer · Data Analyst · NLP & AI Enthusiast
 
-I’m a detail-oriented professional specializing in **Market Research**, **Data Collection**, **Lead Generation**, **Virtual Assistance**, and **Business Development**.  
-With hands-on experience working with diverse industries, I help businesses find relevant leads, analyze markets, streamline operations, and support daily administrative and growth-oriented tasks.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-My focus is on delivering high-quality research, clean datasets, reliable business insights, and optimized workflows.
+📍 Pakistan &nbsp;|&nbsp; 🌍 Open to remote work
 
-## Tech & Skills
+</div>
 
-### 🔍 Research & Lead Gen Tools  
-![LinkedIn](https://img.shields.io/badge/LinkedIn%20Sales%20Navigator-blue?logo=linkedin)  
-![Apollo.io](https://img.shields.io/badge/Apollo.io-343a40?logo=data:image/svg+xml;base64,)  
-![ZoomInfo](https://img.shields.io/badge/ZoomInfo-black)  
-![Crunchbase](https://img.shields.io/badge/Crunchbase-blue)  
-![Hunter.io](https://img.shields.io/badge/Hunter.io-orange)  
-![Snov.io](https://img.shields.io/badge/Snov.io-purple)  
-![Clearbit](https://img.shields.io/badge/Clearbit-blue)
+---
 
-### 📊 Data & Reporting  
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white)  
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white)  
-![Zoho](https://img.shields.io/badge/Zoho-CC0000?logo=zoho&logoColor=white)  
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
+## 🙋 About Me
 
-### VA & Operations  
-📅 Calendar Management  
-📨 Email Handling  
-⚙️ Task Automation (Basic)  
-📁 Project Coordination  
-📝 Business Documentation
+Computer Science graduate with practical experience in **data analysis, SQL optimization and web application development**. I combine strong programming foundations (**C#, Python, ASP.NET Core**) with applied knowledge of **data preprocessing, NLP, machine learning and predictive analytics**.
 
-## ⭐ Featured Work
+I enjoy building reliable software and turning raw data into useful insights.
 
-### 📌 Market & Competitor Research  
-- Prepared industry research reports with verified data sources.  
-- Created summaries, charts, and structured insights for decision-makers.
+---
 
-### 📌 Lead Generation Projects  
-- Built B2B contact lists with verified emails.  
-- Segmented ICP-based leads (industry, revenue, region, job titles).
+## 🎓 Education
 
-### 📌 Virtual Assistance  
-- Managed schedules, outreach tasks, CRM updates, and reporting dashboards.
+**BS Computer Science (2021-2025)**
+University of Southern Punjab, Multan, Pakistan
+**Final grade: 3.65 / 4.0**
 
-### 📌 Business Development Support  
-- Helped outbound prospecting with clean lead pipelines.  
-- Drafted proposals, outreach templates, and BD workflows.
+*Major modules:* Data Structures · Object-Oriented Programming · Database Systems · Web Engineering · Artificial Intelligence · Software Engineering · Introduction to Data Science · Data Mining and Data Warehousing
 
-## 🏅 Soft Skills  
-🎯 Attention to Detail  
-🧠 Problem-Solving  
-🗣️ Communication  
-⏱️ Time Management  
-🚀 Fast Learning
+---
 
-## 📫 Contact
+## 💼 Work Experience
 
-📧 **Email:** usamashoaibkhan22@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/usama-shoaib-45a521259/ 
+### Data Analyst Intern · Protech IT Zone
+*Multan, Pakistan · Sep 2025 - Jun 2026*
+- Performed exploratory data analysis (EDA) in **Python** using statistical techniques to clean, process and extract insights from raw operational datasets
+- Designed and optimized **SQL queries, stored procedures** and relational schemas for large application datasets
+- Built **ETL / data integration pipelines** to combine multiple data sources while keeping data consistent and accurate
+- Developed preprocessing workflows to detect logging anomalies, handle missing values and structure unstructured system logs
+- Created analytical datasets and connected them to **BI dashboards** for automated reporting
+
+### Associate .NET Developer · SID Software House
+*Lahore, Pakistan · May 2024 - Oct 2024*
+- Built and maintained web applications with **ASP.NET Core, C# and Entity Framework Core**
+- Developed **RESTful APIs** and backend services
+- Optimized **SQL Server** databases with efficient queries, joins and stored procedures
+- Implemented authentication and clean, modular code following **SOLID principles**
+- Debugged backend issues and managed code with **Git**
+- Built responsive interfaces with HTML, CSS, Bootstrap and jQuery
+
+---
+
+## 🚀 Projects
+
+### 🎓 Automated Student Grading System *(Final Year Project)*
+An AI-powered, role-based web platform (Admin, Teacher, Student) that **automatically evaluates Word-based assignments and quizzes** using NLP and Large Language Models.
+
+- NLP framework in **C# and ML.NET** combining **LLMs (DeepInfra API)** with rule-based scoring
+- Text preprocessing and **TF-IDF** similarity analysis
+- Grade prediction, comparison with actual grades and **at-risk student detection**
+- SQL Server database design and dashboards with grade and GPA charts
+
+**Tech:** C# · ASP.NET Core MVC · SQL Server · DeepInfra API · ML.NET · OpenXML SDK
+
+[📂 Source Code](https://github.com/Usamashoaibkhan/Automated-Student-Grading-System) ·
+[🎥 Demo Video](https://drive.google.com/file/d/1OAUfslDyeX8Gy8vxNZ1dXmRGcfecWy8W/view?usp=drive_link) ·
+[📄 Report](https://drive.google.com/file/d/1PzGv9T7Gh7-9kijBqL4RPdfv9r3TUpcG/view?usp=drive_link)
+
+### 📚 Library Management System
+Application for managing books, members and records. **Java · MySQL · HTML · CSS**
+
+### 🏥 Healthcare Appointment Booking System
+Web application for booking and managing patient appointments. **PHP · Laravel · MySQL · Bootstrap**
+
+---
+
+## 🛠️ Skills
+
+| Area | Technologies |
+|---|---|
+| **Programming** | Python, C#, SQL / T-SQL, C++, Java, PHP |
+| **Web Development** | ASP.NET Core MVC, Laravel, HTML, CSS, Bootstrap, jQuery |
+| **Data & AI** | EDA, data preprocessing, ETL pipelines, NLP, ML.NET, LLM APIs, TF-IDF |
+| **Databases** | SQL Server, MySQL, Entity Framework Core |
+| **Tools** | Git, GitHub, Visual Studio, BI dashboards |
+| **Concepts** | MVC, REST APIs, SOLID principles, authentication, database design |
+
+**Soft skills:** Adaptability · Problem-Solving · Communication · Time Management
+
+---
+
+## 🌐 Languages
+
+**Urdu:** Native &nbsp;|&nbsp; **English:** C1 (Proficient)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usama_Shoaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-shoaib-45a521259/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamashoaibkhan22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Usamashoaibkhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usamashoaibkhan)
