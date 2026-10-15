@@ -121,20 +121,33 @@ An AI-powered, role-based web platform (Admin, Teacher, Student) that **automati
 
 **Soft skills:** `Adaptability` `Problem-Solving` `Communication` `Time Management`
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:58a6ff,100:000000" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — Live Repository Data
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Usamashoaibkhan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&ring_color=58a6ff" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamashoaibkhan&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages"/>
+<a href="https://github.com/Usamashoaibkhan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Usamashoaibkhan&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&ring_color=58a6ff" alt="GitHub repository statistics"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Usamashoaibkhan&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak stats"/>
+<a href="https://github.com/Usamashoaibkhan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamashoaibkhan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages across public repositories"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Usamashoaibkhan&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub contribution streak"/>
+
+<br/>
+
+<a href="https://github.com/Usamashoaibkhan?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW-ALL%20REPOSITORIES-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:58a6ff,100:000000" width="100%"/>
 
 ## 🌐 Languages
 
