@@ -122,7 +122,7 @@ An AI-powered, role-based web platform (Admin, Teacher, Student) that **automati
 **Soft skills:** `Adaptability` `Problem-Solving` `Communication` `Time Management`
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:58a6ff,100:000000" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:58a6ff,100:000000" width="100%"/>
 
 ## 📊 GitHub Stats — Live Repository Data
 
@@ -132,8 +132,8 @@ An AI-powered, role-based web platform (Admin, Teacher, Student) that **automati
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Usamashoaibkhan&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&ring_color=58a6ff" alt="GitHub repository statistics"/>
 </a>
 
-<a href="https://github.com/Usamashoaibkhan">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamashoaibkhan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages across public repositories"/>
+<a href="https://github.com/Usamashoaibkhan?tab=repositories">
+  <img height="180" src="./assets/project-language-stats.svg" alt="Actual project counts by primary programming language"/>
 </a>
 
 <br/><br/>
